@@ -1,4 +1,6 @@
 # HelloWorld
 This is my first repository
 
-Here is some additional info
+headshot added here
+
+Here is some additional info...
